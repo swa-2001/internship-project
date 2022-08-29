@@ -1,2 +1,2 @@
 # internship-project
-data analysis internship project
+data analytics internship project
